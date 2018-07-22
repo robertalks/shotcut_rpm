@@ -115,7 +115,7 @@ Name:             ${RPM_PACKAGE_NAME}
 Version:          ${SHOTCUT_VERSION}
 Release:          ${RPM_REVISION}
 Summary:          Shotcut is a free, open source, cross-platform video editor.
-License:          MPL-2.0
+License:          GPL-3.0
 Vendor:           Shotcut
 URL:              https://www.shotcut.org
 BugURL:           https://github.com/mltframework/shotcut/issues
