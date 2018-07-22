@@ -1,0 +1,5 @@
+fluxgui*.rpm
+.bintray-auth
+.gpg-passphrase
+.version
+.release
